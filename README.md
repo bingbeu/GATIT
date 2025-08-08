@@ -71,6 +71,5 @@ We provide the trained model checkpoints on the following datasets. You can down
 ```
 
 ## Acknowledgment
-
 We would like to thank the authors of [MetaFormer](https://github.com/dqshuai/MetaFormer)for their publicly available code. Part of this work is built upon their implementations.
 
