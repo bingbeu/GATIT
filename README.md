@@ -1,4 +1,4 @@
-# bingbeu-FT-Former
+# Gradient-Aware Token Injection Transformer for Fine-Grained Visual Classification
 
 * install `Pytorch and torchvision`
 ```
@@ -25,7 +25,7 @@ Download [iNaturalist 18](https://github.com/visipedia/inat_comp),[CUB-200-2011]
 
 We provide the trained model checkpoints on the following datasets. You can download and evaluate them directly
 
-- **FT-Former trained on Datasets**  
+- **Gradient-Aware Token Injection Transformer for Fine-Grained Visual Classification trained on Datasets**  
   🔗 [Baidu Pan Link](https://pan.baidu.com/s/19sEDgygYqXA03vmBfsX0Vw?pwd=i25h)  
   🔐 Password: `i25h`  
 
